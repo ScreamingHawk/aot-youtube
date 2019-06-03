@@ -8,11 +8,11 @@ This app will display over the top of your other windows even when focus is lost
 
 Install dependencies
 
-`npm i`
+`yarn`
 
 Build it
 
-`npm run build`
+`yarn build`
 
 Run it
 
